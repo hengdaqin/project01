@@ -1,0 +1,14 @@
+Use case
+Categories: Informations on sold houses in Melbourne, informations can be divided into mainly 2 types, geomatical and property information.
+geomatical informations includes suburb, street, Council area, regionname. property informations includes room, landing area, price, etc.
+
+questions that would be intrested by users
+is there a relationship between amount of houses sold and region? 
+is there a specific type of house that is more popular in a specific region?
+is the house more popular with a specific room number?
+what time in the year does the house tend to sell more than other times?
+
+questions i want to solve by analyzing the data
+  - discover the relationships between amount of houses sold and date.
+  - then add in the region factor to see the relationship
+  - and also add in the room factor to see if there is a relationship.
